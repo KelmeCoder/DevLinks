@@ -1,8 +1,6 @@
 <h1 align="center"> DevLinks KelmeCoder </h1>
 
-<p align="center">
-<img alt="projeto DevLinks" src="preview.PNG" width="40%" align= "center">
-</p>
+
 
 ## 🚀 Tecnologias
 
