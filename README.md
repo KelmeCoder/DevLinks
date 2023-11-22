@@ -15,6 +15,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online](https://KelmeCoder.github.io/DevLinks)
+- [Acesse o projeto finalizado, online] <a href="(https://KelmeCoder.github.io/DevLinks)" target="blank"></a>
 
                     Feito com ♥ by KelmeCoder
